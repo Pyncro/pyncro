@@ -2,7 +2,7 @@
 
 
 
-[https://img.shields.io/twitter/follow/Pyncro?style=for-the-badge](https://img.shields.io/twitter/follow/Pyncro?color=darkblue&label=%40Pyncro&logo=twitter&logoColor=darkblue&style=for-the-badge)
+<img src="https://img.shields.io/twitter/follow/Pyncro?color=darkblue&label=%40Pyncro&logo=twitter&logoColor=darkblue&style=for-the-badge">
 
 
 
