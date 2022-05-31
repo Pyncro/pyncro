@@ -20,8 +20,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://shields.io (for badges)
+
+https://github.com/devicons/devicon/tree/master/icons (icons folder)
 -->
 
+---
 
 ## Languages and tools
 Dev-side
@@ -34,7 +39,7 @@ Dev-side
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40">
 
 
-
+---
 
 Networking-side:
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/putty/putty-original.svg" width="40" height="40">
