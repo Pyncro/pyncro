@@ -2,15 +2,10 @@
 
 
 
-<img src="https://img.shields.io/twitter/follow/Pyncro?color=darkblue&label=%40Pyncro&logo=twitter&logoColor=darkblue&style=for-the-badge">
-<img src="https://img.shields.io/twitter/follow/pyncro?style=social">
+<img src="https://img.shields.io/twitter/follow/Pyncro?color=darkblue&label=%40Pyncro&logo=twitter&logoColor=darkblue&style=for-the-badge"align="center" >
+<img src="https://img.shields.io/twitter/follow/pyncro?style=social" align="center">
 
 
-
-<!--
-**Pyncro/pyncro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Wordpress
 - 🌱 I’m currently learning Docker 🐳
@@ -18,11 +13,7 @@ Here are some ideas to get you started:
 
 - ⚡ Spoken language: 🇫🇷/🇬🇧
 
-https://shields.io (for badges)
-
-https://github.com/devicons/devicon/tree/master/icons (icons folder)
--->
-
+<--
 ---
 ## Languages and tools
 | ## Dev-side  | Networking-side: |
@@ -37,24 +28,6 @@ https://github.com/devicons/devicon/tree/master/icons (icons folder)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40">
        |
-
-+
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -91,3 +64,15 @@ Networking-side:
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/putty/putty-original.svg" width="40" height="40">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40">
+
+
+
+
+
+
+
+
+https://shields.io (for badges)
+
+https://github.com/devicons/devicon/tree/master/icons (icons folder)
+-->
