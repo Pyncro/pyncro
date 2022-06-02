@@ -12,14 +12,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Wordpress
+- 🌱 I’m currently learning Docker 🐳
+- 📫 How to reach me: pyncro@protonmail.ch
+
+- ⚡ Spoken language: 🇫🇷/🇬🇧
 
 https://shields.io (for badges)
 
@@ -27,8 +24,47 @@ https://github.com/devicons/devicon/tree/master/icons (icons folder)
 -->
 
 ---
-
 ## Languages and tools
+| ## Dev-side  | Networking-side: |
+| ---       ---       |
+| Backtick  `  WWW    |
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Dev-side
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40">
 
