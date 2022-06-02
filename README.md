@@ -13,7 +13,7 @@
 
 - ⚡ Spoken language: 🇫🇷/🇬🇧
 
-<--
+<!--
 
 ## Languages and tools
 | ## Dev-side  | Networking-side: |
