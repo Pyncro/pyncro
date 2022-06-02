@@ -14,7 +14,7 @@
 - ⚡ Spoken language: 🇫🇷/🇬🇧
 
 <--
----
+
 ## Languages and tools
 | ## Dev-side  | Networking-side: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40">
@@ -58,7 +58,6 @@ Dev-side
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40">
 
 
----
 
 Networking-side:
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/putty/putty-original.svg" width="40" height="40">
@@ -75,4 +74,5 @@ Networking-side:
 https://shields.io (for badges)
 
 https://github.com/devicons/devicon/tree/master/icons (icons folder)
+
 -->
