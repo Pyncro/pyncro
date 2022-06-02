@@ -18,35 +18,35 @@
 - ⚡ Spoken language: 🇫🇷/🇬🇧
 
 
-## Languages and tools
+### Languages and Tools  
 
-
-
-### Developping-side  
+          
+  
+### Developping side
 
 <table><tr><td valign="top" width="33%">
-          
-<div align="center">  
+  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" /> 
 
 </div>
+</table>
 
-</td><td valign="top" width="33%">
-
-
-### Networking-side  
+ 
+  
+### Networking-side
 
 <table><tr><td valign="top" width="33%">
-          
-<div align="center">  
+  
+<div align="left">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="70" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/putty/putty-original.svg" alt="PuTy" height="70" />  
 
 </div>
-
+</table>
 
 
 
