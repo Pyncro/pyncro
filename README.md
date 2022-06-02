@@ -44,7 +44,10 @@
 <div align="left">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="70" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/putty/putty-original.svg" alt="PuTy" height="70" />  
-
+<img style="margin: 10px" src="https://raw.githubusercontent.com/network-automation/networking-icons/master/servers/server_rack_red_small.png" alt="Server" height="70" />            
+<img style="margin: 10px" src="https://raw.githubusercontent.com/network-automation/networking-icons/master/firewall/firewall_mango_small.png" alt="Server" height="70" />          
+          
+  
 </div>
 </table>
 
