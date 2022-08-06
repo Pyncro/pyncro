@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on Wordpress
-- 🌱 I’m currently learning Docker 🐳
+- 🌱 I’m currently learning Godot 
 - 📫 How to reach me: pyncro@protonmail.ch
 
 - ⚡ Spoken language: 🇫🇷/🇬🇧
