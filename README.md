@@ -14,7 +14,6 @@
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Godot 
 -->
-- Contact: claxton.jordan@orange.fr
 
 - ⚡ Spoken language: 🇫🇷/🇬🇧
 
