@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-ubuntu-plain-wordmark colored"></i>
+
+
 <div id="header" align="center">
           <a>
            <img src="https://img.shields.io/twitter/follow/Pyncro?color=darkblue&label=%40Pyncro&logo=twitter&logoColor=darkblue&style=for-the-badge">
