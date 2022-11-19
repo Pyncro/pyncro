@@ -41,13 +41,9 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" />
           
-          
-          
+       
 </div>
 
-
-
-</td></tr></table>  
 
       
 
