@@ -5,7 +5,7 @@ I network most of the time.
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 
 <div>
-          <img  style="color:#f03c15" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" />
+          <img  style="#f03c15" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" />
           <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" />
           <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
           <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
