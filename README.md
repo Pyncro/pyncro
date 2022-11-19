@@ -1,8 +1,4 @@
-I network most of the time.
-
-- ![#f03c15](I network most of the time.) `#I network most of the time.`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#I network most of the time.`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#I network most of the time.`
+@@I network most of the time.@@
 
 <div>
           <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" />
