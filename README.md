@@ -3,7 +3,7 @@ I network most of the time.
 <div>
           <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" />
           <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
           <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
 </div>
 
