@@ -51,6 +51,9 @@ I network most of the time.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/33158051/103466649-c1245300-4d14-11eb-9637-be3297299c01.png" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/33158051/103466559-33e0fe80-4d14-11eb-9065-3164462fcdc4.png" alt="Git" height="50" />  
+
+          
           
                    
 </div>
