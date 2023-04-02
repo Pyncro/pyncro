@@ -35,7 +35,7 @@ I network most of the time.
 
 
 
-### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)Front-end  
+### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)Operating-Systems  
 <div align="center">  
 <!--
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
