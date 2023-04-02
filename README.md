@@ -50,6 +50,9 @@ I network most of the time.
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/33158051/103466649-c1245300-4d14-11eb-9637-be3297299c01.png" alt="Bash" height="50" />  
+          
+                   
 </div>
 
 </td></tr></table>  
