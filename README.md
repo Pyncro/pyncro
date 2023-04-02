@@ -35,7 +35,7 @@ I network most of the time.
 
 
 
-### [#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)Front-end  
+### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)Front-end  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -46,7 +46,7 @@ I network most of the time.
 
 
 
-### [#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)DevOps  
+### ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
