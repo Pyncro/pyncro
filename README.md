@@ -1,9 +1,5 @@
 I network most of the time.
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0` 
-
 <!--
 
 <div>
@@ -24,7 +20,7 @@ I network most of the time.
 
 
 
-### - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)Server-side  
+###  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)Server-side  
 <div align="center">  
           <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" />
           <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" />
@@ -39,7 +35,7 @@ I network most of the time.
 
 
 
-### Front-end  
+### [#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)Front-end  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -50,7 +46,7 @@ I network most of the time.
 
 
 
-### DevOps  
+### [#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
