@@ -24,7 +24,7 @@ I network most of the time.
 
 
 
-### Server-side  
+### - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)Server-side  
 <div align="center">  
           <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" />
           <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" />
