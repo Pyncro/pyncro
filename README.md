@@ -68,7 +68,7 @@ I network most of the time.
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
