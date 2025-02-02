@@ -1,81 +1,20 @@
-I used to network , now i video edit.
+###
 
-<!--
-
-<div>
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />  
-</div>
-
--->
-
-
-
-<table><tr><td valign="top" width="33%">
-
-
-
-###  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)Server-side  
-<div align="center">  
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-          <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)Operating-Systems  
-<div align="center">  
-<!--
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" alt="debian" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg"  alt="opensuse" height="50" />       
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/33158051/103466649-c1245300-4d14-11eb-9637-be3297299c01.png" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/33158051/103466559-33e0fe80-4d14-11eb-9065-3164462fcdc4.png" alt="Git" height="50" />  
-
-          
-          
-                   
-</div>
-
-</td></tr></table>  
-
-<br/>            
+<img align="right" height="150" src="https://img.icons8.com/?size=100&id=40604&format=png&color=000000"  />
 
 ###
 
-<div align="center">  
-![](https://github-readme-streak-stats.herokuapp.com/?user=pyncro&theme=transparent&hide_border=false)<br/>
+<div align="left">
+  <img src="https://commons.wikimedia.org/wiki/File:Affinity_Photo_V2_icon.svg" height="40" alt="affinity design"  />
+  <img width="12" />
+  <img src="https://commons.wikimedia.org/wiki/File:Affinity_Publisher_V2_icon.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://commons.wikimedia.org/wiki/File:OBS_Studio_Logo.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://commons.wikimedia.org/wiki/File:Audacity_Logo.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <https://commons.wikimedia.org/wiki/File:Nvidia_logo.svg"  />
 </div>
-
-
-###
-
-
 
 ###
 
