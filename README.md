@@ -17,8 +17,15 @@
   <img width="12" />
 </div>
 
-  <img src="https://raw.githubusercontent.com/sameerasw/folder-icons/main/PNGs/youtube.png" height="40" alt="youtube folder"  />
-  <img width="12" />
+  <img src="https://raw.githubusercontent.com/sameerasw/folder-icons/main/PNGs/youtube.png" height="50" alt="youtube folder"  />
+  <img width="22" />
+  <img src="https://raw.githubusercontent.com/sameerasw/folder-icons/main/PNGs/shonen-jump.png" height="50" alt="youtube folder"  />
+  <img width="22" />
+  <img src="https://raw.githubusercontent.com/sameerasw/folder-icons/main/PNGs/viz.png" height="50" alt="youtube folder"  />
+  <img width="22" />
+  <img src="https://raw.githubusercontent.com/sameerasw/folder-icons/main/PNGs/Xbox-one.png" height="50" alt="youtube folder"  />
+  <img width="22" />
+  
 
 
 
