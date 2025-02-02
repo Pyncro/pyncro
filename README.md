@@ -68,6 +68,9 @@ I used to network , now i video edit.
 
 ###
 
+<div align="center">  
+![](https://github-readme-streak-stats.herokuapp.com/?user=pyncro&theme=transparent&hide_border=false)<br/>
+</div>
 
 
 ###
