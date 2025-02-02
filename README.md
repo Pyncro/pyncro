@@ -1,6 +1,6 @@
 ###
 
-<img align="right" height="150" src="https://img.icons8.com/?size=100&id=40604&format=png&color=000000"  />
+<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg"  />
 
 ###
 
