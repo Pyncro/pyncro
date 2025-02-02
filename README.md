@@ -18,8 +18,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sameerasw/folder-icons/main/PNGs/youtube.png" height="40" alt="youtube folder"  />
-  <img width="12" />
+  <img src="https://raw.githubusercontent.com/sameerasw/folder-icons/main/PNGs/youtube.png" height="80" alt="youtube folder"  />
+  <img width="80" />
   <img src="https://raw.githubusercontent.com/sameerasw/folder-icons/main/PNGs/shonen-jump.png" height="40" alt=""  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/sameerasw/folder-icons/main/PNGs/viz.png" height="40" alt=""  />
