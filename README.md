@@ -27,7 +27,7 @@
 
 <div>
 
-# SOUND PLAYLIST
+# <img src="https://github.com/Pyncro/folder-icons/blob/main/PNGs/sound.png?raw=true" height="40"  alt=""  /> SOUND PLAYLIST
    
 </div>
 
